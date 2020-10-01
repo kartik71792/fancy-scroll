@@ -7,7 +7,7 @@ Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](ht
 [View demo](http://peachananr.github.io/fancy-scroll/demo.html)
 
 ## Compatibility
-Modern browsers such as Chrome, Firefox, and Safari have been tested. IE and Mobile browsers have not been tested.
+Modern browsers such as Chrome, Edge, Safari and Opera support the non-standard ::-webkit-scrollbar pseudo element, which allows us to modify the look of the browser's scrollbar.
 
 ## Basic Usage
 To add an overflow scrolling effect with Fancy Scroll plugin, simply include the latest jQuery library together with `jquery.fancy-scroll.js` into your document's `<head>` and call the function as follows:
